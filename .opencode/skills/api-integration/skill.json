@@ -1,0 +1,5 @@
+{
+  "name": "api-integration",
+  "description": "Integrar APIs REST en Python",
+  "instructions": "instrucciones.md"
+}
